@@ -1,2 +1,2 @@
 # Python-Scripts
-All the fun python scripts I learn.. 
+All the fun random python scripts I learn.. 
